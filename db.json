@@ -434,6 +434,19 @@
         }
       ],
       "id": 4
+    },
+    {
+      "address": "Rua Siqueira Bueno",
+      "number": "03",
+      "optionalAddress": "",
+      "paymentOption": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 5
     }
   ]
 }
