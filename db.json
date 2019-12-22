@@ -447,6 +447,22 @@
         }
       ],
       "id": 5
+    },
+    {
+      "name": "André Carlos",
+      "email": "andre2lcarlos@yahoo.com.br",
+      "emailConfirmation": "andre2lcarlos@yahoo.com.br",
+      "address": "Rua Siqueira Bueno, 1522",
+      "number": "1522",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 6
     }
   ]
 }
