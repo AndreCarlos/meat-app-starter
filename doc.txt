@@ -1,0 +1,1 @@
+nodemon --watch backend backend/dist/server.js
